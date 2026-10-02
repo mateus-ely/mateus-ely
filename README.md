@@ -18,5 +18,5 @@
 <br>
 
 <p align="center">
-<img width="300" height="270" alt="sem_fundo" src="https://github.com/user-attachments/assets/e312b72e-80fa-4e7c-bdef-f17420266f45" />
+  <img width="300" alt="Animais voando em balões" src="assets/sem_fundo (1).webp" />
 </p>

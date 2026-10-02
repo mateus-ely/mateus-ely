@@ -18,5 +18,5 @@
 <br>
 
 <p align="center">
-  <img width="400" height="360" alt="gif_fundo_branco (1)" src="https://github.com/user-attachments/assets/b67847e8-ae37-46b1-b686-2c7ab3b7d6e1" />
+<img width="300" height="270" alt="sem_fundo" src="https://github.com/user-attachments/assets/e312b72e-80fa-4e7c-bdef-f17420266f45" />
 </p>
